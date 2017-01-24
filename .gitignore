@@ -1,0 +1,6 @@
+#Ignore python artifacts
+*.pyc
+*.pyo
+
+#Ignore thumbnails created by Windows
+Thumbs.db
